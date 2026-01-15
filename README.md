@@ -19,4 +19,4 @@ https://github.com/crifan/idaExportAllCode.git
 ## TODO
 
 * [ ] split exported each function into single file
-  * eg: save some function into: `+[NetworkMonitor setHostEndRegString:].m`, `sub_1413C`, `objc_msgSend_substringToIndex_`, etc.
+  * eg: save some function into: `+[NetworkMonitor setHostEndRegString:].m`, `sub_1413C.m`, `objc_msgSend_substringToIndex_.m`, etc.
