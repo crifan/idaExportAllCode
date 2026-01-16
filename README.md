@@ -1,6 +1,6 @@
 # idaExportAllCode
 
-* Update: `20260115`
+* Update: `20260116`
 
 ## Function
 
@@ -14,7 +14,7 @@ https://github.com/crifan/idaExportAllCode.git
 
 ## Usage
 
-`IDA Pro` -> `File` -> `Script file ...` -> (Double click to ) Run this script: `idaExportAllCode.py` -> got exported file (in folder of same with input binary), eg: `xxx_20260115_115035_allCode.m`
+`IDA Pro` -> `File` -> `Script file ...` -> (Double click to ) Run this script: `idaExportAllCode.py` -> got exported file (in folder of same with input binary), eg: `exportedAllCode/xxx_20260115_115035_allCode.m`
 
 ## TODO
 
